@@ -9,4 +9,6 @@ I've seen that before
 No dependencies, just make package (make clean package)
 
 ## Note
-If you take code from this repository please link it, or my [twitter](https://twitter.com/Litteeen) to your project
+If you take code from this repository please link it, or my [twitter](https://twitter.com/Litteeen) to your project  
+You may not redistribute this source code or packages from it  
+You may not use this project to make profit like money
